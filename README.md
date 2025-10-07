@@ -1,6 +1,6 @@
 # SBL UX
 
-This is a repository for tracking User experience (UX) tasks related to the Small Business Lending Data Filing Platform project. 
+This is a repository for tracking user experience (UX) tasks related to the Small Business Lending Data Filing Platform project. 
 
 Work includes: 
 - Discovery (such as task analysis, information gathering, and defining scope)
